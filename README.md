@@ -10,4 +10,4 @@ I'm Punnatat, first-year Robotics & AI student at Chulalongkorn University.
 - OpenCV / Vision LLMs
 - n8n
 
-#### Currently competing in SUPER AI Engineer SS6
+#### -> Currently competing in SUPER AI Engineer SS6
